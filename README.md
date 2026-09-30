@@ -12,9 +12,9 @@ Fichas de seis dinossauros famosos, com tamanho, alimentação, época e local
 Curiosidades sobre os dinossauros
 
 # Arquivos
- 
-index.html : página principal
-style.css : estilos da página
+index.html : Página principal;
+style.css : Estilos da página;
+
 # Autor
 Meu nome é João V. G. Rodrigues, sou um estudante do Instituto Federal Catarinense - Campus Concórdia, estou no 1° ano e faço o Ensino Médio Integrado ao Curso Técnico de Informática para Internet.
  
