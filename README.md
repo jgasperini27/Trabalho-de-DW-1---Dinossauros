@@ -2,8 +2,7 @@
 Uma página estática utilizando HTML e CSS sobre Dinossauros.
 
 # Dinossauros: os mais famosos e suas eras
-Site estático feito só com HTML e CSS (sem JavaScript e sem framework) para o
-trabalho avaliativo de Desenvolvimento Web I.
+Site estático feito para o trabalho avaliativo de Desenvolvimento Web I.
  
 # O que tem no site
  
