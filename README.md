@@ -6,7 +6,7 @@ Site estático feito para o trabalho avaliativo de Desenvolvimento Web I.
  
 # O que tem no site
  
-Tabela com os três períodos da Era Mesozoica: Triássico, Jurássico e Cretáceo
+Tabela com os três períodos da Era Mesozoica: Triássico, Jurássico e Cretáceo;
 Fichas de seis dinossauros famosos, com tamanho, alimentação, época e local
 Curiosidades sobre os dinossauros
 
